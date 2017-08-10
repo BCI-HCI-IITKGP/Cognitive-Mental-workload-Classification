@@ -1,4 +1,4 @@
-* Feature Extraction and Classification of Cognitive Mental workload EEG signals
+*Feature Extraction and Classification of Cognitive Mental workload EEG signals
 
 This repository contains a Ipython notebook file which contains a module to extract features from EEG signals. These features can be used to train machine learning algorithms. 
 
